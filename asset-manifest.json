@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/live-preview-react-weather-app/static/css/main.56897252.chunk.css",
+    "main.js": "/live-preview-react-weather-app/static/js/main.735f42cb.chunk.js",
+    "main.js.map": "/live-preview-react-weather-app/static/js/main.735f42cb.chunk.js.map",
+    "runtime-main.js": "/live-preview-react-weather-app/static/js/runtime-main.d1a0d414.js",
+    "runtime-main.js.map": "/live-preview-react-weather-app/static/js/runtime-main.d1a0d414.js.map",
+    "static/css/2.853beab5.chunk.css": "/live-preview-react-weather-app/static/css/2.853beab5.chunk.css",
+    "static/js/2.e2ea0fe7.chunk.js": "/live-preview-react-weather-app/static/js/2.e2ea0fe7.chunk.js",
+    "static/js/2.e2ea0fe7.chunk.js.map": "/live-preview-react-weather-app/static/js/2.e2ea0fe7.chunk.js.map",
+    "index.html": "/live-preview-react-weather-app/index.html",
+    "static/css/2.853beab5.chunk.css.map": "/live-preview-react-weather-app/static/css/2.853beab5.chunk.css.map",
+    "static/css/main.56897252.chunk.css.map": "/live-preview-react-weather-app/static/css/main.56897252.chunk.css.map",
+    "static/js/2.e2ea0fe7.chunk.js.LICENSE.txt": "/live-preview-react-weather-app/static/js/2.e2ea0fe7.chunk.js.LICENSE.txt",
+    "static/media/weathercardbackground.87d5ddd7.png": "/live-preview-react-weather-app/static/media/weathercardbackground.87d5ddd7.png",
+    "static/media/weather-icons.css": "/live-preview-react-weather-app/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a0d414.js",
+    "static/css/2.853beab5.chunk.css",
+    "static/js/2.e2ea0fe7.chunk.js",
+    "static/css/main.56897252.chunk.css",
+    "static/js/main.735f42cb.chunk.js"
+  ]
+}
