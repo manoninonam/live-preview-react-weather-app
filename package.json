@@ -1,5 +1,5 @@
 {
-  "name": "wk11-12-react-weather-app",  
+  "name": "wk11-12-react-weather-app",
   "homepage": "https://manoninonam.github.io/live-preview-react-weather-app",
   "version": "0.1.0",
   "private": true,
@@ -47,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
